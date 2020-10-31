@@ -1,6 +1,8 @@
 <?php
     include("../../private/config/config.php");
     include("../../private/required/body_header.inc.php");
+
+    
 ?>
 
 <div class="body__banner">
